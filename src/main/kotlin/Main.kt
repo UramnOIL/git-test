@@ -4,6 +4,6 @@ fun main(args: Array<String>) {
 
 fun printHogeFor(times: Int) {
     repeat(times) {
-        println("Hoge")
+        println("Fuga")
     }
 }
