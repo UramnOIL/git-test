@@ -1,9 +1,9 @@
 fun main(args: Array<String>) {
-    printFugaFor(5)
+    printHogeFor(5)
 }
 
-fun printFugaFor(times: Int) {
+fun printHogeFor(times: Int) {
     repeat(times) {
-        println("Fuga")
+        println("Hoge")
     }
 }
